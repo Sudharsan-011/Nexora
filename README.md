@@ -45,3 +45,5 @@ Runs at `http://localhost:5173`
 | DELETE | `/api/cart/:id`      | Remove item from cart |
 | POST   | `/api/cart/checkout` | Perform mock checkout |
 
+
+Demo Video: https://youtu.be/G71n2kuaPR8
